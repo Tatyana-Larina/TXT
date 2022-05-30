@@ -1,0 +1,5 @@
+name: Tatyana
+surname: Larina
+age: 32
+num_pets: 2
+salary: 100 000 rub
