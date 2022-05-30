@@ -1,0 +1,5 @@
+fav_film: Matrix
+fav_series: Dexter
+fav_food: pancakes
+fav_season: summer
+country_to_visit: USA

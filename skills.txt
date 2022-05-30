@@ -1,0 +1,1 @@
+skills: gitbash, GitHub, Postman, Charles Proxy, Fiddler, SQL
